@@ -1,6 +1,6 @@
 {
   "name": "logbook",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Generate standardised loggers within quayOS",
   "main": "index.js",
   "author": "Jonas Auer <jonas.auer.94@gmail.com>",
